@@ -1,6 +1,0 @@
-python-dotenv
-pandas
-selenium
-bs4
-pyodbc
-firebase_admin
