@@ -1,7 +1,7 @@
 # Testing Instructions: Submitting an Adhoc Idea - Desktop
 This set of instructions asks the user to test the various functionalities related to submitting an adhoc idea on the Innovation Station.
 
-These instructions can also be found online [here](https://github.com/rogers-obrien-rad/innovation-station-testing/blob/main/kits/adhoc-submission/01_instructions.md).
+These instructions can also be found online [here](https://github.com/rogers-obrien-rad/innovation-station-testing/blob/main/kits/adhoc-submission-desktop/01_instructions.md).
 
 ## 🔑 Login
 _Navigate to the Innovation Station and login with a dummy account_
@@ -16,11 +16,11 @@ _Submit an adhoc idea to the platform_
 Navigate to the idea submission page. There are multiple ways to accomplish this task; feel free to use any method. You will know you are on the correct page if you see the "Better Way" core value icon and two text entry fields for a title and description.
 
 ### Idea Submission Process
-1. **Thumbnail**: Change the default thumbnail to an image of your choosing. You can use the [sample thumbnail](https://github.com/rogers-obrien-rad/innovation-station-testing/blob/main/kits/adhoc-submission/03_sample_thumbnail.png) provided in this kit. 
-2. **Title**: Enter a title for your idea. You can use the template provided in [sample text](https://github.com/rogers-obrien-rad/innovation-station-testing/blob/main/kits/adhoc-submission/02_sample_text.txt) to help you; anything will do though.
-3. **Description**: Enter a description for your idea. You can use the template provided in [sample text](https://github.com/rogers-obrien-rad/innovation-station-testing/blob/main/kits/adhoc-submission/02_sample_text.txt) to help you.
-4. **Upload Files**: Upload _at least two files_. Sample files are provided in this kit and available [here](https://github.com/rogers-obrien-rad/innovation-station-testing/tree/main/kits/adhoc-submission).
-5. **Upload Photos**: Upload _at least two photos_. Sample photos are provided in this kit and available [here](https://github.com/rogers-obrien-rad/innovation-station-testing/tree/main/kits/adhoc-submission).
+1. **Thumbnail**: Change the default thumbnail to an image of your choosing. You can use the [sample thumbnail](https://github.com/rogers-obrien-rad/innovation-station-testing/blob/main/kits/adhoc-submission-desktop/03_sample_thumbnail.png) provided in this kit. 
+2. **Title**: Enter a title for your idea. You can use the template provided in [sample text](https://github.com/rogers-obrien-rad/innovation-station-testing/blob/main/kits/adhoc-submission-desktop/02_sample_text.txt) to help you; anything will do though.
+3. **Description**: Enter a description for your idea. You can use the template provided in [sample text](https://github.com/rogers-obrien-rad/innovation-station-testing/blob/main/kits/adhoc-submission-desktop/02_sample_text.txt) to help you.
+4. **Upload Files**: Upload _at least two files_. Sample files are provided in this kit and available [here](https://github.com/rogers-obrien-rad/innovation-station-testing/tree/main/kits/adhoc-submission-desktop).
+5. **Upload Photos**: Upload _at least two photos_. Sample photos are provided in this kit and available [here](https://github.com/rogers-obrien-rad/innovation-station-testing/tree/main/kits/adhoc-submission-desktop).
 6. Review and submit your idea! Please ensure the "Submit Privately?" box is left unchecked. Although feel free to toggle to checkbox.
 
 ## ✔️ View and Verify your Idea
