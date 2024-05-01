@@ -35,4 +35,4 @@ _Review the idea you submitted and ensure all the information is correct_
 ## 📝 Feedback
 Thank you for following the steps above and submitting one of the first ideas to the Innovation Station! 
 
-Please use this [form]() to answer questions about the process you just went through so that we might improve the Innovation Station. 
+Please use this [form](https://forms.office.com/r/BEUtY2kQxX) to answer questions about the process you just went through so that we might improve the Innovation Station. You will be asked to sign into your RO account and we will record your name and email with your submission. 
