@@ -23,20 +23,20 @@ When you locate the idea, click to open the Idea Details page for that idea. You
 
 ## Interact with Idea
 _View and interact with the idea_
-1. **Idea Status**: Learn more about the idea's status.
+1. **Idea Status**: View and learn more about the idea's status.
 2. **Liking**: Find and click the like icon to like the idea. Click the icon again to unlike. 
 3. **Innovation Index**: Learn more about the Innovation Index.
 4. **Engagement**: Learn more about the Engagement score.
 5. **Comments**
-    1. View the comments made on the idea. Please note how many comments were submitted by Hagen Fritz - you will be asked to provide this number on the feedback form.
+    1. View the comments made on the idea.
     2. Enter a comment on the idea. You can enter anything you like - you will delete the comment in the next step.
     3. Delete the comment you just made.
 6. **Resources**
-    1. View the idea resources. Please note how many photos were available for the idea - you will be asked to provide this number on the feedback form.
+    1. View the idea resources.
     2. Locate the markdown (`.md`) file and click to open it.
-    3. Find the image of the rocket and click to expand it.
+    3. Click on any image to expand it.
 
 ## 📝 Feedback
 Thank you for following the steps above and interacting with an idea on the Innovation Station! 
 
-Please use this [form]() to answer questions about the steps you just went through so that we might improve the Innovation Station. You will be asked to sign into your RO account and we will record your name and email with your submission. 
+Please use this [form](https://forms.office.com/r/srBY6z8SPV) to answer questions about the steps you just went through so that we might improve the Innovation Station. You will be asked to sign into your RO account and we will record your name and email with your submission. 
