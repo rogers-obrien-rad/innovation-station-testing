@@ -14,3 +14,15 @@ _Repository holding materials related to testing the Innovation Station_
 #### Adhoc Idea View/Interact - Desktop
 * [Kit](https://github.com/rogers-obrien-rad/innovation-station-testing/tree/main/kits/adhoc-idea-desktop)
 * [Feedback Form](https://forms.office.com/r/srBY6z8SPV)
+
+#### Challenge Creation - Desktop
+* [Kit](https://github.com/rogers-obrien-rad/innovation-station-testing/tree/main/kits/create-challenge-desktop)
+* [Feedback Form](https://forms.office.com/r/dgN5RjGNUv)
+
+#### Challenge Idea Submission - Desktop
+* [Kit](https://github.com/rogers-obrien-rad/innovation-station-testing/tree/main/kits/challenge-submission-desktop)
+* [Feedback Form](https://forms.office.com/r/kxgmaR4x5D)
+
+#### Challenge Idea Voting - Desktop
+* [Kit](https://github.com/rogers-obrien-rad/innovation-station-testing/tree/main/kits/challenge-vote-desktop)
+* [Feedback Form](https://forms.office.com/r/tPYsPY6RT7)
