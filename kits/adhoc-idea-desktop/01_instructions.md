@@ -1,7 +1,7 @@
 # Testing Instructions: Interacting with an Adhoc Idea - Desktop
 This set of instructions asks the user to test the various functionalities related to viewing and interacting with an adhoc idea on the Innovation Station.
 
-These instructions can also be found online [here]().
+These instructions can also be found online [here](https://github.com/rogers-obrien-rad/innovation-station-testing/blob/main/kits/adhoc-idea-desktop/01_instructions.md).
 
 ## 🔑 Login
 _Navigate to the Innovation Station and login with a dummy account_
