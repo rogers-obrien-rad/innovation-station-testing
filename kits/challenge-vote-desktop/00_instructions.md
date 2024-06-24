@@ -4,9 +4,10 @@ This set of instructions asks the user to test the various functionalities relat
 These instructions can also be found online [here](https://github.com/rogers-obrien-rad/innovation-station-testing/blob/main/kits/challenge-vote-desktop/01_instructions.md).
 
 ## 🔑 Login
-_Navigate to the Innovation Station and login with a dummy account_
+_Navigate to the Innovation Station and login with your RO credentials_
 1. On the web browser of your choosing, input the following URL: https://ro-innovation-station.flutterflow.app/
-2. You will see a login prompt. Use the credentials provided by R&D. 
+2. Click the button to "Login with SSO". When prompted, use your regular RO credentials.
+    * If you encounter any issues logging in (cannot login, your photo/name does not appear, etc.) please contact Hagen at hfritz@r-o.com
 
 You should be logged in! Feel free to explore the site before continuing.
 
@@ -20,8 +21,8 @@ _Vote for your top three ideas_
 ### Idea Voting Process
 1. Scroll through the list of ideas and interact with them as you see fit. 
 2. You must vote for at least three ideas, so choose whichever ideas you like best and rank them according to your preference.
-3. Feel free to re-rank your ideas as you see fit and test the ranking process to make sure it works properly. 
-4. Once you have ranked three ideas and feel confident with your choices, click the "Submit" button. 
+3. Feel free to re-rank your ideas as you see fit and test the ranking process to make sure it is intuitive and/or works properly. 
+4. Once you have ranked three ideas, click the "Submit" button. 
 5. If everything worked correctly, you should see a Success screen stating your votes have been cast.
 
 ## 📝 Feedback
